@@ -1,8 +1,8 @@
-apple
-orange
-egg
-lemon
-grapes
-secret
-strawberry
-password
+Apple
+Orange
+Egg
+Lemon
+Grapes
+Secret
+Strawberry
+Password
